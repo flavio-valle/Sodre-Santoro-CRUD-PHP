@@ -1,0 +1,30 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+.conteudo{
+    width: 100vw;
+    height: 100vh;
+    padding: 10px;
+}
+
+form{
+    width: 100%;
+    border: none;
+}
+.conteudo h1 {
+    border-bottom: 2px solid black;
+    padding: 10px;
+    width: 100%;
+}
+
+.tabela-produto {
+    margin-top: 50px;
+}
