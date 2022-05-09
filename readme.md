@@ -36,7 +36,7 @@
 
 * [HTML5]()
 * [CSS3](https://www.w3.org/Style/CSS/Overview.en.html)
-* [JavaScript ES6](https://www.javascript.com/)
+* [MySQL](https://www.mysql.com/)
 * [PHP](https://www.php.net)
 * [Bootstrap](https://getbootstrap.com/)
 <p align="right">(<a href="#top">voltar ao topo</a>)</p>
